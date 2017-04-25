@@ -1,6 +1,6 @@
 # npmdoc-csslint
 
-#### api documentation for  [csslint (v1.0.5)](http://csslint.net/)  [![npm package](https://img.shields.io/npm/v/npmdoc-csslint.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-csslint) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-csslint.svg)](https://travis-ci.org/npmdoc/node-npmdoc-csslint)
+#### basic api documentation for  [csslint (v1.0.5)](http://csslint.net/)  [![npm package](https://img.shields.io/npm/v/npmdoc-csslint.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-csslint) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-csslint.svg)](https://travis-ci.org/npmdoc/node-npmdoc-csslint)
 
 #### CSSLint
 
